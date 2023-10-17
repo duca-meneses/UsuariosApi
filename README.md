@@ -7,5 +7,6 @@
 * C#
 * ASP.NET CORE
 * Entity Framework
+* Identity
 * PostgreSQL
 * Swagger
